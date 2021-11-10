@@ -2,7 +2,7 @@ name: "Workflow Scan"
 
 on:
   push:
-    branches: [feat/add-wsa]
+    branches: [feat/add-wsa-workflow]
 
 permissions:
   security-events: write
